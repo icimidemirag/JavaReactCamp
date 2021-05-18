@@ -14,7 +14,7 @@ public class Main {
 		gamer.setFirstName("Ýçimi");
 		gamer.setLastName("Demirað");
 		gamer.setDateYear(2001);
-		gamer.setNationalityId("16550099364");
+		gamer.setNationalityId("00000000000");
 		
 		BaseGamerManager baseGamerManager = new BaseGamerManager(new MernisServiceAdapter());
 		baseGamerManager.register(gamer);
