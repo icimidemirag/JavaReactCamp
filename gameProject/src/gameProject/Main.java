@@ -4,6 +4,7 @@ import Adapters.MernisServiceAdapter;
 import Concrete.BaseCampaignManager;
 import Concrete.BaseGamerManager;
 import Concrete.BaseProductManager;
+import Concrete.GamerCheckManager;
 import Entities.Gamer;
 
 public class Main {
